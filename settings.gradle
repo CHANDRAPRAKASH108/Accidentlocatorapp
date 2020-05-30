@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Accidential_Accelerators-sensor_send-sms'
